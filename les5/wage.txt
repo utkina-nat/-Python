@@ -1,0 +1,7 @@
+Petrov 19000
+Ivanov 45000
+Vasilev 40000
+Gusev 18000
+Orlov 20000
+Utkina 150000
+
